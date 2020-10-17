@@ -61,6 +61,8 @@ namespace TPCDAA
             Console.WriteLine("\n\rTri du panier  : ");
             jeux.Trier();
 
+            Console.ReadLine();
+
         }
     }
 }

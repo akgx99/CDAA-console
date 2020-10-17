@@ -1,0 +1,7 @@
+C:\Users\thoma\source\repos\CDAA-TP1\bin\Debug\CDAA-TP1.exe.config
+C:\Users\thoma\source\repos\CDAA-TP1\bin\Debug\CDAA-TP1.exe
+C:\Users\thoma\source\repos\CDAA-TP1\bin\Debug\CDAA-TP1.pdb
+C:\Users\thoma\source\repos\CDAA-TP1\obj\Debug\CDAA-TP1.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\CDAA-TP1\obj\Debug\CDAA-TP1.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\CDAA-TP1\obj\Debug\CDAA-TP1.exe
+C:\Users\thoma\source\repos\CDAA-TP1\obj\Debug\CDAA-TP1.pdb

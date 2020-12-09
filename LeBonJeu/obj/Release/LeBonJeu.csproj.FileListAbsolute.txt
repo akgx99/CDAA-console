@@ -1,0 +1,13 @@
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.csprojAssemblyReference.cache
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.Form1.resources
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.Form2.resources
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.MajJeuDlg.resources
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.MajMangaDlg.resources
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.Properties.Resources.resources
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.SaisieJeuDlg.resources
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.SaisieFigDlg.resources
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.LeBonJeu.resources
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.VisualJeuDlg.resources
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.VisualMangaDlg.resources
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.csproj.GenerateResource.cache
+C:\Users\thoma\Desktop\ProjetCDAA2_Backup_6\LeBonJeu\LeBonJeu\obj\Release\LeBonJeu.csproj.CoreCompileInputs.cache

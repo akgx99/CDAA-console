@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="LeBonJeu.Basket&lt;T&gt;" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAEQAAAAAABAAAIAQBQAAAAAAAgAACAAAAAAAAAA=</HashCode>
+      <FileName>Basket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.Catalogue" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABAAAAAQAAAAAQAAAIMQAAAAQAIAgIAAAAAEA=</HashCode>
+      <FileName>Catalogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.Figurine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAIIAgACQEoAKAIgACACAAAIAAAQAAAAFAByA=</HashCode>
+      <FileName>Figurine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LeBonJeu.Form1" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARABIgAAgGAIFBAAAQDSBgBCMAA4QYAiIGAEACAAACA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.Form2" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAABAAAAmAABBAAAQSABgBCGAIgAYAAAAgEACAAgCA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.Jeu">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEAAIAIAAgACQEoAKAJgACACAAAIAAAQAAAAEAByM=</HashCode>
+      <FileName>jeu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LeBonJeu.JeuRetro">
+    <Position X="0.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABACAAAAAgAAAAACAAAAAgAE=</HashCode>
+      <FileName>jeuretro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.LesFigurines" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgBgAAAAAEAEAAAABCAAMQAAAAAAEAACAAAAAAM=</HashCode>
+      <FileName>LesFigurines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.LesJeux" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAEAAAAAAAEEAEAABAQAIAAAAAAAEAgCEAAAABU=</HashCode>
+      <FileName>LesJeux.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.MajFigDlg" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAQAAAACAAAASAAAAACAAAAAAAAAABAA=</HashCode>
+      <FileName>MajFigDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.MajJeuDlg" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACQAAASEAAAACAAAAAAAAAABAA=</HashCode>
+      <FileName>MajJeuDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.Program" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.SaisieFigDlg" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAwACQgBBACAACAAACCALAwAUCAARAAAAAAACA=</HashCode>
+      <FileName>SaisieFigDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.SaisieJeuDlg" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgCAhAQwACQgABACAASABAECQCBYAUAggSBgACCBoCI=</HashCode>
+      <FileName>SaisieJeuDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.VisualFigDlg" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAABQAAAACAAACCAAAAAQQAAAAAQAAAACA=</HashCode>
+      <FileName>VisualFigDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeBonJeu.VisualJeuDlg" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACQABAAAAACQAAACAAAAAQQAAAAAQAAAACA=</HashCode>
+      <FileName>VisualJeuDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="LeBonJeu.IBasketElement" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IBasketElement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="LeBonJeu.CategorieGenre" Collapsed="true">
+    <Position X="3" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAACAAAAIAAAAAAAAAAAAAEBgAAAA=</HashCode>
+      <FileName>CategorieGenre.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LeBonJeu.MarqueFigurine" Collapsed="true">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAACABAAAAAACAAAAAABAAAAAAAA=</HashCode>
+      <FileName>MarqueFigurine.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
